@@ -28,15 +28,18 @@ It tells you the **current market mood based on news headlines.**
 
 ### 🖥️ Dashboard View
 
-![Dashboard](./screenshots/dashboard.png)
+    <img width="1824" height="918" alt="image" src="https://github.com/user-attachments/assets/f46ec0ed-f164-4351-9dab-55a9fd3c2816" />
+
 
 ### 📊 Sentiment Charts
 
-![Charts](./screenshots/charts.png)
+    <img width="1823" height="761" alt="image" src="https://github.com/user-attachments/assets/8c62c600-20cc-46b9-a131-ddb9c6c7433d" />
+
 
 ### 🔍 Filtered Data Table
 
-![Table](./screenshots/table.png)
+    <img width="1782" height="628" alt="image" src="https://github.com/user-attachments/assets/a63aa7f5-6c96-4d66-9045-57751edb693e" />
+
 
 ---
 
@@ -69,7 +72,7 @@ News-Sentiment-Dashboard/
 ├── pipeline.py      # Fetch + analyze + store data
 ├── app.py           # Dashboard UI
 ├── requirements.txt
-└── screenshots/
+
 ```
 
 ---
